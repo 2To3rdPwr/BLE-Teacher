@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BLE Teacher</string>
+    <string name="ble_uuid">cd3b9d7e-7be0-4e54-9765-0a8e5df2556e</string>
+</resources>
